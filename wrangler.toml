@@ -1,0 +1,3 @@
+name = "bolt-dy-worker"
+main = "src/index.js"  # ou o arquivo principal do seu projeto
+compatibility_date = "2025-03-27"
